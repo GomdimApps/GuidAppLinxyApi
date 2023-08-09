@@ -1,11 +1,18 @@
 {
     "app": [
         {
-            "version": "2.0.0",
+            "version": "1.0.0",
             "url": "https://www.example.com",
-            "name": "RederWA",
-            "codeversion": 4,
+            "name": "Example App",
+            "codeversion": "1.0.0",
             "description": "This is an example app."
+        }
+    ],
+    "bot": [
+        {
+            "url": "https://www.examplebot.com",
+            "version": "1.0.0",
+            "description": "This is an example bot."
         }
     ]
 }
