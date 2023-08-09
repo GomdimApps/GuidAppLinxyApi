@@ -12,7 +12,8 @@
         {
             "url": "https://www.examplebot.com",
             "version": "1.0.0",
-            "description": "This is an example bot."
+            "description": "This is an example bot.",
+            "hasUpdate": false
         }
     ]
 }
